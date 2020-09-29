@@ -102,7 +102,7 @@ var plugin = {
                 gameEvent.Origin.IPAddressString,
                 gameEvent.Origin.NetworkId,
                 flagReason,
-                gameEvent.Origin.AliasLinkId
+                gameEvent.Origin.ClientId
             )
         }
     },
